@@ -56,6 +56,29 @@ s [DESSE LINK](https://www.figma.com/design/3xYRyZObtVz8CILRyi0rWA/projeto-oxbur
     
 </body>
 </html>
+<h2>Funcionalidades do sistema</h2>
+            <h3>Requisitos Funcionais</h3>
+            <ul>
+                <li>Cadastro de clientes</li>
+                <li>Cadastro de produtos (hambúrgueres, bebidas, acompanhamentos, etc.)</li>
+                <li>Sistema de pedidos online com seleção de itens do cardápio</li>
+                <li>Opção de personalização de pedidos (escolha de ingredientes, ponto da carne, etc.)</li>
+                <li>Pagamento online (cartão de crédito, débito, Pix)</li>
+                <li>Acompanhamento do status do pedido em tempo real</li>
+                <li>Área administrativa para gerenciar cardápio e estoque</li>
+                <li>Relatórios de vendas e desempenho</li>
+                <li>Notificações automáticas para clientes e funcionários</li>
+            </ul>
+            <h3>Requisitos Não Funcionais</h3>
+            <ul>
+                <li>Interface amigável e responsiva</li>
+                <li>Segurança dos dados dos clientes e transações</li>
+                <li>Alta disponibilidade e escalabilidade do sistema</li>
+                <li>Desempenho eficiente com tempo de resposta rápido</li>
+                <li>Compatibilidade com diferentes navegadores e dispositivos</li>
+            </ul>
+        </section>
+    </div>
 
 
 
