@@ -41,6 +41,24 @@ Você pode visualizar o layout do projeto através
 
 s [DESSE LINK](https://www.figma.com/design/3xYRyZObtVz8CILRyi0rWA/projeto-oxburguer?node-id=10-2&t=Lvnkd3Mke1BO3FKV-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+
+</html><section id="team">
+            <h2>Time de desenvolvedores</h2>
+            <ul>
+                <li>João Silva - Desenvolvedor Front-end</li>
+                <li>Maria Oliveira - Desenvolvedora Back-end</li>
+                <li>Carlos Souza - Designer UX/UI</li>
+                <li>Ana Lima - Gerente de Projeto</li>
+                <li>Pedro Ferreira - Analista de Qualidade</li>
+            </ul>
+        </section>
+
+    
+</body>
+</html>
+
+
+
 ## :memo: Licença
 
 Esse projeto está sob a licença de gutu.
